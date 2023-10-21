@@ -1,2 +1,2 @@
 # Image-Classification
-Convolutional Neural Network is a powerful Neural Network that helps in classifying images. It outperforms traditional Neural Network when our Data consists of Images
+Convolutional Neural Network is a powerful Neural Network that helps in classifying images. Using Filters, RELU activation and Pooling Techniques, it outperforms traditional Neural Network.
